@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<h1>⚡ Hi there I'm Yelley ⚡</h1>
+
+📚 Where I am currently studying 📚
+<li>📚 I'm a 3rd-year student at <a href="https://www.kmutnb.ac.th/">KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK</a></li>
+<li>💻 I'm studying Computer Science</li>
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=shades-of-purple)](https://github.com/yelleyy/github-readme-stats)
 
 <!--
