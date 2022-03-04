@@ -6,14 +6,15 @@
 <li>💻 I'm studying Computer Science</li><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura_dark)](https://github.com/yelleyy/yelleyy)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=vue-dark)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=react)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=omni)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=jolly )](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=blueberry )](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=swift )](https://github.com/yelleyy/yelleyy)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura )](https://github.com/yelleyy/yelleyy)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura )](https://github.com/yelleyy/yelleyy)<br/> -->
 
 
 
