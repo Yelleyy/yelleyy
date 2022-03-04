@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact)](https://github.com/yelleyy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=shades-of-purple)](https://github.com/yelleyy/github-readme-stats)
+
 <!--
 **Yelleyy/yelleyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
