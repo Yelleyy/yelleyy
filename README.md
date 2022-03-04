@@ -3,10 +3,11 @@
 
 📚 Where I am currently studying 📚
 <li>📚 I'm a 3rd-year student at <a href="https://www.kmutnb.ac.th/">KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK</a></li>
-<li>💻 I'm studying Computer Science</li>
-<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=shades-of-purple)](https://github.com/yelleyy/github-readme-stats)
+<li>💻 I'm studying Computer Science</li><br/><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=shades-of-purple)](https://github.com/yelleyy/yelleyy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=omni)](https://github.com/yelleyy/yelleyy)<br/>
 <!--
 **Yelleyy/yelleyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
