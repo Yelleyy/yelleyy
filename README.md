@@ -7,8 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura_dark)](https://github.com/yelleyy/yelleyy)<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark)](https://github.com/yelleyy/nodejsbank)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark)](https://github.com/yelleyy/nodejsbank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=vue-dark)](https://github.com/yelleyy/yelleyy)<br/>
