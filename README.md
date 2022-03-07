@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark)](https://github.com/yelleyy/nodejsbank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -72,7 +72,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br/>
+<br/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=vue-dark)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=react)](https://github.com/yelleyy/yelleyy)<br/>
