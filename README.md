@@ -4,8 +4,8 @@
 📚 Where I am currently studying 📚
 <li>📚 I'm a 3rd-year student at <a href="https://www.kmutnb.ac.th/">KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK</a></li>
 <li>💬 My Name is Pattarapol Pornsitirung 💬</li>
-<li>💻 I'm studying Computer Science</li><br/><br/>
-<li>😄 <a href="https://yelleyy.github.io/">My Profile</a></li>
+<li>💻 I'm studying Computer Science</li>
+<li>😄 <a href="https://yelleyy.github.io/">My Profile</a></li><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura_dark)](https://github.com/yelleyy/yelleyy)<br/>
 
