@@ -13,7 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=PigMe-Mobile-App&theme=aura_dark)](https://github.com/yelleyy/PigMe-Mobile-App)
 
-<!-- ## 🛠️ My Skills
+## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -74,15 +74,15 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br/> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
+<br/> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=nightowl)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=vue-dark)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=react)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=omni)](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=jolly )](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=blueberry )](https://github.com/yelleyy/yelleyy)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=swift )](https://github.com/yelleyy/yelleyy)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura )](https://github.com/yelleyy/yelleyy)<br/> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura )](https://github.com/yelleyy/yelleyy)<br/> 
 
 
 
@@ -99,4 +99,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
