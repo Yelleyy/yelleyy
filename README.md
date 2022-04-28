@@ -12,11 +12,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark)](https://github.com/yelleyy/nodejsbank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=PigMe-Mobile-App&theme=aura_dark)](https://github.com/yelleyy/PigMe-Mobile-App)
-
+<!--
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-<!--
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
