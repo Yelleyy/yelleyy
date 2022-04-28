@@ -16,7 +16,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
+<!--
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
