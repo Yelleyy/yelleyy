@@ -1,5 +1,9 @@
 
-<h1>⚡ Hi there I'm Yelley ⚡</h1>
+<!--<h1>⚡ Hi there I'm Yelley ⚡</h1>-->
+
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mali&size=30&pause=1000&color=F77703&vCenter=true&width=435&lines=%E2%9A%A1+Hi+there+I'm+Yelley+%E2%9A%A1;Computer+Science" alt="Typing SVG" /></a></h1>
+
+
 
 📚 Where I am currently studying 📚
 <li>📚 I'm a 3rd-year student at <a href="https://www.kmutnb.ac.th/">KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK</a></li>
