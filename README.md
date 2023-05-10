@@ -11,12 +11,47 @@
 <li>💻 I'm studying Computer Science</li>
 <h3>😄 <a href="https://yelleyy.github.io/">My Profile</a> 👈<h3> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura_dark)](https://github.com/yelleyy/yelleyy)<br/>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yelleyy&theme=aura_dark&show_icons=true&count_private=true" />
+      </br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yelleyy&theme=aura_dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&theme=aura_dark&langs_count=7"/>
+    </td>
+  </tr>
+  <tr border="none">
+    <td width="50%" align="center">
+      <a href="[https://github.com/yelleyy/databaseproject](https://github.com/yelleyy/nodejsbank)">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/yelleyy/databaseproject">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark"/>
+      </a>
+    </td>
+  </tr>
+  <tr border="none">
+    <td width="50%" align="center">
+      <a href="https://github.com/yelleyy/databaseproject](https://github.com/yelleyy/PigMe-Mobile-Ap)">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=PigMe-Mobile-App&theme=aura_dark"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/yelleyy/WorldEnd">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=WorldEnd&theme=aura_dark"/>
+      </a>
+    </td>
+  </tr>
+</table> 
+  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelleyy&layout=compact&theme=aura_dark)](https://github.com/yelleyy/yelleyy)<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=nodejsbank&theme=aura_dark)](https://github.com/yelleyy/nodejsbank)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=databaseproject&theme=aura_dark)](https://github.com/yelleyy/databaseproject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=PigMe-Mobile-App&theme=aura_dark)](https://github.com/yelleyy/PigMe-Mobile-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=WorldEnd&theme=aura_dark)](https://github.com/yelleyy/WorldEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yelleyy&repo=WorldEnd&theme=aura_dark)](https://github.com/yelleyy/WorldEnd) -->
 <!--
 ## 🛠️ My Skills
 
